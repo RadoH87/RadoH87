@@ -1,4 +1,4 @@
-[![MasterHead](https://c8.alamy.com/zooms/9/8db9fc0a6d9a4f56a891ae044786db99/2j4955t.jpg)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwNhkP532UHW1H5x_NzXZjBqo6SqqOCPsNaA&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Radek Holubowski</h1>
 <h3 align="center">A passionate, wannabe JavaScript developer from UK.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/radoslaw holubowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radoslaw holubowski" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/radoslawholubowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radoslaw holubowski" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
