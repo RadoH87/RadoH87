@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radoh87&label=Profile%20views&color=0e75b6&style=flat" alt="radoh87" /> </p>
 
-- 🔭 I’m currently working on fullstack application **Head_Hunter_Recruitment**
+- 🔭 I’m currently working on application **movieTime**
 - 🔭 I’m currently looking for my first job as a **Software Developer**
-- 🌱 I’m currently learning and improving my **React and NestJS** skills 
+- 🌱 I’m currently learning and improving my **React and NextJS** skills 
 - 📫 How to reach me **radekh8787@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
