@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Radek Holubowski</h1>
-<h3 align="center">A passionate, wannabe JavaScript developer from UK.</h3>
+<h3 align="center">A passionate and aspiring JavaScript developer from UK.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on application **movieTime**
 - 🔭 I’m currently looking for my first job as a **Software Developer**
-- 🌱 I’m currently learning and improving my **React and NextJS** skills 
+- 🌱 Additionally, I'm actively expanding my skillset by learning C# - ASP.NET. I believe that gaining proficiency in this powerful framework will enable me to build robust and scalable web applications.
 - 📫 How to reach me **radekh8787@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
