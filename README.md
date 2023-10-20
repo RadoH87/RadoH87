@@ -64,6 +64,6 @@ E-mail: [Radek Holubowski](mailto:radekh8787@gmail.com)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radoh87&theme=gotham&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radoH87&theme=gotham&show_icons=true)
 
 
